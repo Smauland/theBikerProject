@@ -1,0 +1,40 @@
+
+Functional description
+
+
+outputs:
+
+headlight
+high beam
+turn lights right
+turn lights left
+tail light+ license plate light
+brake light
+horn
+
+indicators:
+
+turn signal
+high beam 
+oil level/pressure
+neutral/gear indicator
+
+input signals:
+
+lights on/off
+high beam
+turn signal <->
+starter 
+tachometer
+spedometer
+alarm sensor
+
+functions
+
+button communication
+indicator control
+light control
+horn
+clock
+alarm (in off state)
+LCD display (240*64 pix) EA DOGM240W-6 (339kr)
