@@ -2,17 +2,17 @@
 Functional description
 
 
-outputs:
+outputs: minimum 5A @ 13V
 
-headlight
-high beam
-turn lights right
-turn lights left
-tail light+ license plate light
-brake light
-horn
+55W headlight
+60W high beam
+42W turn lights right
+42W turn lights left
+21+5W tail light+ license plate light
+21W brake light
+3-5A horn
 
-indicators:
+indicators (led):
 
 turn signal
 high beam 
@@ -37,4 +37,7 @@ light control
 horn
 clock
 alarm (in off state)
-LCD display (240*64 pix) EA DOGM240W-6 (339kr)
+
+LCD display (240*64 pix) EA DOGM240W-6 (339kr) EA DOGM132L-5 (132*32 pix) (136kr)
+or
+speedo with integrated warning lights
